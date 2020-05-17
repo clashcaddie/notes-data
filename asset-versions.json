@@ -2,36 +2,43 @@
     {
         "asset": "ball-attributes",
         "file": "ball-attributes.zip",
-        "remoteVersion": 1
+        "remoteVersion": 1,
+        "localVersion": 0
     },
     {
         "asset": "club-images",
         "file": "club-images.zip",
-        "remoteVersion": 1
+        "remoteVersion": 1,
+        "localVersion": 0
     },
     {
         "asset": "club-level-images",
         "file": "club-level-images.zip",
-        "remoteVersion": 1
+        "remoteVersion": 1,
+        "localVersion": 0
     },
     {
         "asset": "course-images",
         "file": "course-images.zip",
-        "remoteVersion": 1
+        "remoteVersion": 1,
+        "localVersion": 0
     },
     {
         "asset": "divisions",
         "file": "divisions.zip",
-        "remoteVersion": 1
+        "remoteVersion": 1,
+        "localVersion": 0
     },
     {
         "asset": "tournament-images",
         "file": "tournament-images.zip",
-        "remoteVersion": 1
+        "remoteVersion": 1,
+        "localVersion": 0
     },
     {
         "asset": "wind-direction-images",
         "file": "wind-direction-images.zip",
-        "remoteVersion": 1
+        "remoteVersion": 1,
+        "localVersion": 0
     }
 ]
