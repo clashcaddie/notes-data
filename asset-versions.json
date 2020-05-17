@@ -1,9 +1,37 @@
-{
-    "ballAttributes" : 1,
-    "clubImages" : 1,
-    "clubLevelImages" : 1,
-    "courseImages" : 1,
-    "divisions" : 1,
-    "tournamentImages" : 1,
-    "windDirectionImages" : 1
-}
+[
+    {
+        "asset": "ball-attributes",
+        "file": "ball-attributes.zip",
+        "remoteVersion": 1
+    },
+    {
+        "asset": "club-images",
+        "file": "club-images.zip",
+        "remoteVersion": 1
+    },
+    {
+        "asset": "club-level-images",
+        "file": "club-level-images.zip",
+        "remoteVersion": 1
+    },
+    {
+        "asset": "course-images",
+        "file": "course-images.zip",
+        "remoteVersion": 1
+    },
+    {
+        "asset": "divisions",
+        "file": "divisions.zip",
+        "remoteVersion": 1
+    },
+    {
+        "asset": "tournament-images",
+        "file": "tournament-images.zip",
+        "remoteVersion": 1
+    },
+    {
+        "asset": "wind-direction-images",
+        "file": "wind-direction-images.zip",
+        "remoteVersion": 1
+    }
+]
