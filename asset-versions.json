@@ -2,8 +2,8 @@
     "ballAttributes" : 1,
     "clubImages" : 1,
     "clubLevelImages" : 1,
-    "course-images" : 1,
+    "courseImages" : 1,
     "divisions" : 1,
-    "tournament-images" : 1,
-    "wind-direction-images" : 1
+    "tournamentImages" : 1,
+    "windDirectionImages" : 1
 }
