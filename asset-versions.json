@@ -55,4 +55,12 @@
         "remoteVersion": 1,
         "localVersion": 0
     }
+    ,
+    {
+        "asset": "tournament-details",
+        "file": "tournament-details.zip",
+        "assetType": "zip",
+        "remoteVersion": 1,
+        "localVersion": 0
+    }
 ]
