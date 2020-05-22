@@ -52,7 +52,7 @@
         "asset": "tournaments",
         "file": "tournaments.json",
         "assetType": "json",
-        "remoteVersion": 1,
+        "remoteVersion": 2,
         "localVersion": 0
     }
     ,
