@@ -3,31 +3,37 @@
 
         "id": 1,
         "name": "Safari Sunrise",
-        "startDate": "2020-05-25"
+        "startDate": "2020-05-25",
+        "image": "SafariSunrise_2020-05-25.png"
     },
     {
         "id": 2,
         "name": "Extreme Hills",
-        "startDate": "2020-06-08"
+        "startDate": "2020-06-08",
+        "image": "ExtremeHills_2020-06-08.png"
     },
     {
         "id": 3,
         "name": "Vineyard Acres 9 Hole",
-        "startDate": "2020-06-18"
+        "startDate": "2020-06-18",
+        "image": "VineyardAcres9Hole_2020-06-18.png"
     },
     {
         "id": 4,
         "name": "Liberty",
-        "startDate": "2020-06-22"
+        "startDate": "2020-06-22",
+        "image": "Liberty_2020-06-22.png"
     },
     {
         "id": 5,
         "name": "Redwood Cup",
-        "startDate": "2020-07-06"
+        "startDate": "2020-07-06",
+        "image": "RedwoodCup_2020-07-06.png"
     },
     {
         "id": 6,
         "name": "The Oasis 9 Hole",
-        "startDate": "2020-07-16"
+        "startDate": "2020-07-16",
+        "image": "TheOasis9Hole_2020-07-16.png"
     }
 ]
