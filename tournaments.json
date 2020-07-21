@@ -41,5 +41,12 @@
         "startDate": "2020-07-16",
         "image": "TheOasis9Hole_2020-07-16.png",
         "details": "TheOasis9Hole_2020-07-16.json"
+    },
+    {
+        "id": 7,
+        "name": "Euro Champions",
+        "startDate": "2020-07-20",
+        "image": "EuroChampions_2020-07-20.png",
+        "details": "EuroChampions_2020-07-20.json"
     }
 ]
