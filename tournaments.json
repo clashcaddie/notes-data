@@ -48,5 +48,12 @@
         "startDate": "2020-07-20",
         "image": "EuroChampions_2020-07-20.png",
         "details": "EuroChampions_2020-07-20.json"
+    },
+    {
+        "id": 8,
+        "name": "Highlands",
+        "startDate": "2020-08-03",
+        "image": "Highlands_2020-08-03.png",
+        "details": "Highlands_2020-08-03.json"
     }
 ]
