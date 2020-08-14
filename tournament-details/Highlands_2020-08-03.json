@@ -2,19 +2,19 @@
     "name": "Highlands",
     "holes": [{
             "hole": 1,
-            "course": "Greenoch Points",
+            "course": "Greenoch Point",
             "courseHole": 1,
             "coursePar": 3
         },
         {
             "hole": 2,
-            "course": "Greenoch Points",
+            "course": "Greenoch Point",
             "courseHole": 2,
             "coursePar": 4
         },
         {
             "hole": 3,
-            "course": "Greenoch Points",
+            "course": "Greenoch Point",
             "courseHole": 3,
             "coursePar": 5
         },
