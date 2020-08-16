@@ -55,5 +55,12 @@
         "startDate": "2020-08-03",
         "image": "Highlands_2020-08-03.png",
         "details": "Highlands_2020-08-03.json"
+    },
+    {
+        "id": 9,
+        "name": "Summer Major",
+        "startDate": "2020-08-17",
+        "image": "SummerMajor2020_2020-08-17.png",
+        "details": "SummerMajor2020_2020-08-17.json"
     }
 ]
