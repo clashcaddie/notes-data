@@ -2,54 +2,63 @@
     {
 
         "id": 1,
+        "version": 1,
         "name": "Safari Sunrise",
         "startDate": "2020-05-25",
         "uniqueName": "SafariSunrise_2020-05-25"
     },
     {
         "id": 2,
+        "version": 1,
         "name": "Extreme Hills",
         "startDate": "2020-06-08",
         "uniqueName": "ExtremeHills_2020-06-08"
     },
     {
         "id": 3,
+        "version": 1,
         "name": "Vineyard Acres 9 Hole",
         "startDate": "2020-06-18",
         "uniqueName": "VineyardAcres9Hole_2020-06-18"
     },
     {
         "id": 4,
+        "version": 1,
         "name": "Liberty",
         "startDate": "2020-06-22",
         "uniqueName": "Liberty_2020-06-22"
     },
     {
         "id": 5,
+        "version": 1,
         "name": "Redwood Cup",
         "startDate": "2020-07-06",
         "uniqueName": "RedwoodCup_2020-07-06"
     },
     {
         "id": 6,
+        "version": 1,
         "name": "The Oasis 9 Hole",
         "startDate": "2020-07-16",
         "uniqueName": "TheOasis9Hole_2020-07-16"
     },
     {
         "id": 7,
+        "version": 1,
         "name": "Euro Champions",
         "startDate": "2020-07-20",
         "uniqueName": "EuroChampions_2020-07-20"
     },
     {
         "id": 8,
+        "version": 1,
         "name": "Highlands",
         "startDate": "2020-08-03",
         "uniqueName": "Highlands_2020-08-03"
     },
     {
         "id": 9,
+        "version": 1,
         "name": "Summer Major 2020",
         "startDate": "2020-08-17",
         "uniqueName": "SummerMajor2020_2020-08-17"
