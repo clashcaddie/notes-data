@@ -4,63 +4,54 @@
         "id": 1,
         "name": "Safari Sunrise",
         "startDate": "2020-05-25",
-        "image": "SafariSunrise_2020-05-25.png",
-        "details": "SafariSunrise_2020-05-25.json"
+        "uniqueName": "SafariSunrise_2020-05-25"
     },
     {
         "id": 2,
         "name": "Extreme Hills",
         "startDate": "2020-06-08",
-        "image": "ExtremeHills_2020-06-08.png",
-        "details": "ExtremeHills_2020-06-08.json"
+        "uniqueName": "ExtremeHills_2020-06-08"
     },
     {
         "id": 3,
         "name": "Vineyard Acres 9 Hole",
         "startDate": "2020-06-18",
-        "image": "VineyardAcres9Hole_2020-06-18.png",
-        "details": "VineyardAcres9Hole_2020-06-18.json"
+        "uniqueName": "VineyardAcres9Hole_2020-06-18"
     },
     {
         "id": 4,
         "name": "Liberty",
         "startDate": "2020-06-22",
-        "image": "Liberty_2020-06-22.png",
-        "details": "Liberty_2020-06-22.json"
+        "uniqueName": "Liberty_2020-06-22"
     },
     {
         "id": 5,
         "name": "Redwood Cup",
         "startDate": "2020-07-06",
-        "image": "RedwoodCup_2020-07-06.png",
-        "details": "RedwoodCup_2020-07-06.json"
+        "uniqueName": "RedwoodCup_2020-07-06"
     },
     {
         "id": 6,
         "name": "The Oasis 9 Hole",
         "startDate": "2020-07-16",
-        "image": "TheOasis9Hole_2020-07-16.png",
-        "details": "TheOasis9Hole_2020-07-16.json"
+        "uniqueName": "TheOasis9Hole_2020-07-16"
     },
     {
         "id": 7,
         "name": "Euro Champions",
         "startDate": "2020-07-20",
-        "image": "EuroChampions_2020-07-20.png",
-        "details": "EuroChampions_2020-07-20.json"
+        "uniqueName": "EuroChampions_2020-07-20"
     },
     {
         "id": 8,
         "name": "Highlands",
         "startDate": "2020-08-03",
-        "image": "Highlands_2020-08-03.png",
-        "details": "Highlands_2020-08-03.json"
+        "uniqueName": "Highlands_2020-08-03"
     },
     {
         "id": 9,
         "name": "Summer Major 2020",
         "startDate": "2020-08-17",
-        "image": "SummerMajor2020_2020-08-17.png",
-        "details": "SummerMajor2020_2020-08-17.json"
+        "uniqueName": "SummerMajor2020_2020-08-17"
     }
 ]

@@ -1,52 +1,61 @@
 {
     "name": "The Oasis 9 Hole",
     "holes": [{
-            "hole": 1,
+            "tournamentId": 6,
+            "tournamentHole": 1,
             "course": "The Oasis",
             "courseHole": 1,
             "coursePar": 5
         },
         {
-            "hole": 2,
+            "tournamentId": 6,
+            "tournamentHole": 2,
             "course": "The Oasis",
             "courseHole": 2,
             "coursePar": 4
         },
         {
-            "hole": 3,
+            "tournamentId": 6,
+            "tournamentHole": 3,
             "course": "The Oasis",
             "courseHole": 3,
             "coursePar": 3
         },
         {
-            "hole": 4,
+            "tournamentId": 6,
+            "tournamentHole": 4,
             "course": "The Oasis",
             "courseHole": 4,
             "coursePar": 4
         },
         {
-            "hole": 5,
+            "tournamentId": 6,
+            "tournamentHole": 5,
             "course": "The Oasis",
             "courseHole": 5,
             "coursePar": 3
         },
         {
-            "hole": 6,
+            "tournamentId": 6,
+            "tournamentHole": 6,
             "course": "The Oasis",
             "courseHole": 6,
             "coursePar": 5
         }, {
-            "hole": 7,
+            "tournamentId": 6,
+            "tournamentHole": 7,
             "course": "The Oasis",
             "courseHole": 7,
             "coursePar": 3
         }, {
-            "hole": 8,
+            "tournamentId": 6,
+            "tournamentHole": 8,
             "course": "The Oasis",
             "courseHole": 8,
             "coursePar": 4
         }, {
-            "hole": 9,
+            "tournamentId": 6,
+            "tournamentHole": 9,
             "course": "The Oasis",
             "courseHole": 9,
             "coursePar": 5

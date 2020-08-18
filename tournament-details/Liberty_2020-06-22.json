@@ -1,52 +1,61 @@
 {
     "name": "Liberty",
     "holes": [{
-            "hole": 1,
+            "tournamentId": 4,
+            "tournamentHole": 1,
             "course": "City Park",
             "courseHole": 1,
             "coursePar": 3
         },
         {
-            "hole": 2,
+            "tournamentId": 4,
+            "tournamentHole": 2,
             "course": "City Park",
             "courseHole": 2,
             "coursePar": 4
         },
         {
-            "hole": 3,
+            "tournamentId": 4,
+            "tournamentHole": 3,
             "course": "City Park",
             "courseHole": 3,
             "coursePar": 5
         },
         {
-            "hole": 4,
+            "tournamentId": 4,
+            "tournamentHole": 4,
             "course": "City Park",
             "courseHole": 4,
             "coursePar": 3
         },
         {
-            "hole": 5,
+            "tournamentId": 4,
+            "tournamentHole": 5,
             "course": "City Park",
             "courseHole": 5,
             "coursePar": 4
         },
         {
-            "hole": 6,
+            "tournamentId": 4,
+            "tournamentHole": 6,
             "course": "City Park",
             "courseHole": 6,
             "coursePar": 5
         }, {
-            "hole": 7,
+            "tournamentId": 4,
+            "tournamentHole": 7,
             "course": "City Park",
             "courseHole": 7,
             "coursePar": 4
         }, {
-            "hole": 8,
+            "tournamentId": 4,
+            "tournamentHole": 8,
             "course": "City Park",
             "courseHole": 8,
             "coursePar": 3
         }, {
-            "hole": 9,
+            "tournamentId": 4,
+            "tournamentHole": 9,
             "course": "City Park",
             "courseHole": 9,
             "coursePar": 5

@@ -1,52 +1,61 @@
 {
     "name": "Euro Champions",
     "holes": [{
-            "hole": 1,
+            "tournamentId": 7,
+            "tournamentHole": 1,
             "course": "Drumore Links",
             "courseHole": 2,
             "coursePar": 3
         },
         {
-            "hole": 2,
+            "tournamentId": 7,
+            "tournamentHole": 2,
             "course": "Drumore Links",
             "courseHole": 3,
             "coursePar": 5
         },
         {
-            "hole": 3,
+            "tournamentId": 7,
+            "tournamentHole": 3,
             "course": "Drumore Links",
             "courseHole": 1,
             "coursePar": 4
         },
         {
-            "hole": 4,
+            "tournamentId": 7,
+            "tournamentHole": 4,
             "course": "Nordic Fjords",
             "courseHole": 2,
             "coursePar": 3
         },
         {
-            "hole": 5,
+            "tournamentId": 7,
+            "tournamentHole": 5,
             "course": "Nordic Fjords",
             "courseHole": 6,
             "coursePar": 4
         },
         {
-            "hole": 6,
+            "tournamentId": 7,
+            "tournamentHole": 6,
             "course": "Nordic Fjords",
             "courseHole": 5,
             "coursePar": 5
         }, {
-            "hole": 7,
+            "tournamentId": 7,
+            "tournamentHole": 7,
             "course": "Parc de Paris",
             "courseHole": 1,
             "coursePar": 4
         }, {
-            "hole": 8,
+            "tournamentId": 7,
+            "tournamentHole": 8,
             "course": "Parc de Paris",
             "courseHole": 4,
             "coursePar": 3
         }, {
-            "hole": 9,
+            "tournamentId": 7,
+            "tournamentHole": 9,
             "course": "Parc de Paris",
             "courseHole": 6,
             "coursePar": 5
