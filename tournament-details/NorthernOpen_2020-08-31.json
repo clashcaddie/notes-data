@@ -1,60 +1,60 @@
 {
     "name": "Summer Major 2020",
     "holes": [{
-            "tournamentId": 9,
+            "tournamentId": 11,
             "tournamentHole": 1,
             "course": "Maple Bay",
             "courseHole": 1,
             "coursePar": 4
         },
         {
-            "tournamentId": 9,
+            "tournamentId": 11,
             "tournamentHole": 2,
             "course": "Maple Bay",
             "courseHole": 6,
             "coursePar": 3
         },
         {
-            "tournamentId": 9,
+            "tournamentId": 11,
             "tournamentHole": 3,
             "course": "Nordic Fjords",
             "courseHole": 3,
             "coursePar": 5
         },
         {
-            "tournamentId": 9,
+            "tournamentId": 11,
             "tournamentHole": 4,
             "course": "Nordic Fjords",
             "courseHole": 8,
             "coursePar": 4
         },
         {
-            "tournamentId": 9,
+            "tournamentId": 11,
             "tournamentHole": 5,
             "course": "Nordic Fjords",
             "courseHole": 2,
             "coursePar": 3
         },
         {
-            "tournamentId": 9,
+            "tournamentId": 11,
             "tournamentHole": 6,
             "course": "Maple Bay",
             "courseHole": 9,
             "coursePar": 5
         }, {
-            "tournamentId": 9,
+            "tournamentId": 11,
             "tournamentHole": 7,
             "course": "Nordic Fjords",
             "courseHole": 6,
             "coursePar": 4
         }, {
-            "tournamentId": 9,
+            "tournamentId": 11,
             "tournamentHole": 8,
             "course": "Maple Bay",
             "courseHole": 3,
             "coursePar": 3
         }, {
-            "tournamentId": 9,
+            "tournamentId": 11,
             "tournamentHole": 9,
             "course": "Maple Bay",
             "courseHole": 2,
