@@ -1,0 +1,64 @@
+{
+    "name": "Sakura Hills 9 Hole",
+    "holes": [{
+            "tournamentId": 10,
+            "tournamentHole": 1,
+            "course": "Sakura Hills",
+            "courseHole": 1,
+            "coursePar": 4
+        },
+        {
+            "tournamentId": 10,
+            "tournamentHole": 2,
+            "course": "Sakura Hills",
+            "courseHole": 2,
+            "coursePar": 3
+        },
+        {
+            "tournamentId": 10,
+            "tournamentHole": 3,
+            "course": "Sakura Hills",
+            "courseHole": 3,
+            "coursePar": 5
+        },
+        {
+            "tournamentId": 10,
+            "tournamentHole": 4,
+            "course": "Sakura Hills",
+            "courseHole": 4,
+            "coursePar": 3
+        },
+        {
+            "tournamentId": 10,
+            "tournamentHole": 5,
+            "course": "Sakura Hills",
+            "courseHole": 5,
+            "coursePar": 4
+        },
+        {
+            "tournamentId": 10,
+            "tournamentHole": 6,
+            "course": "Sakura Hills",
+            "courseHole": 6,
+            "coursePar": 5
+        }, {
+            "tournamentId": 10,
+            "tournamentHole": 7,
+            "course": "Sakura Hills",
+            "courseHole": 7,
+            "coursePar": 7
+        }, {
+            "tournamentId": 10,
+            "tournamentHole": 8,
+            "course": "Sakura Hills",
+            "courseHole": 8,
+            "coursePar": 4
+        }, {
+            "tournamentId": 10,
+            "tournamentHole": 9,
+            "course": "Sakura Hills",
+            "courseHole": 9,
+            "coursePar": 5
+        }
+    ]
+}

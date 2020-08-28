@@ -62,5 +62,19 @@
         "name": "Summer Major 2020",
         "startDate": "2020-08-17",
         "uniqueName": "SummerMajor2020_2020-08-17"
+    },
+    {
+        "id": 10,
+        "version": 1,
+        "name": "Sakura Hills 9 Hole",
+        "startDate": "2020-08-27",
+        "uniqueName": "SakuraHills_2020-08-27"
+    },
+    {
+        "id": 11,
+        "version": 1,
+        "name": "Northern Open",
+        "startDate": "2020-08-31",
+        "uniqueName": "NorthernOpen_2020-08-31"
     }
 ]
