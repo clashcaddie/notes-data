@@ -76,5 +76,12 @@
         "name": "Northern Open",
         "startDate": "2020-08-31",
         "uniqueName": "NorthernOpen_2020-08-31"
+    },
+    {
+        "id": 12,
+        "version": 1,
+        "name": "Riverside",
+        "startDate": "2020-09-14",
+        "uniqueName": "Riverside_2020-09-14"
     }
 ]

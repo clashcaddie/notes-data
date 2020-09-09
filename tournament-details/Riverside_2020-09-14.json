@@ -1,0 +1,64 @@
+{
+    "name": "Riverside",
+    "holes": [{
+            "tournamentId": 12,
+            "tournamentHole": 1,
+            "course": "Sunshine Glades",
+            "courseHole": 1,
+            "coursePar": 4
+        },
+        {
+            "tournamentId": 12,
+            "tournamentHole": 2,
+            "course": "Sunshine Glades",
+            "courseHole": 2,
+            "coursePar": 3
+        },
+        {
+            "tournamentId": 12,
+            "tournamentHole": 3,
+            "course": "Glenmonarch Estate",
+            "courseHole": 3,
+            "coursePar": 5
+        },
+        {
+            "tournamentId": 12,
+            "tournamentHole": 4,
+            "course": "Glenmonarch Estate",
+            "courseHole": 4,
+            "coursePar": 3
+        },
+        {
+            "tournamentId": 12,
+            "tournamentHole": 5,
+            "course": "Glenmonarch Estate",
+            "courseHole": 5,
+            "coursePar": 4
+        },
+        {
+            "tournamentId": 12,
+            "tournamentHole": 6,
+            "course": "Sunshine Glades",
+            "courseHole": 9,
+            "coursePar": 5
+        }, {
+            "tournamentId": 12,
+            "tournamentHole": 7,
+            "course": "Glenmonarch Estate",
+            "courseHole": 7,
+            "coursePar": 3
+        }, {
+            "tournamentId": 12,
+            "tournamentHole": 8,
+            "course": "Glenmonarch Estate",
+            "courseHole": 8,
+            "coursePar": 4
+        }, {
+            "tournamentId": 12,
+            "tournamentHole": 9,
+            "course": "Sunshine Glades",
+            "courseHole": 3,
+            "coursePar": 5
+        }
+    ]
+}
