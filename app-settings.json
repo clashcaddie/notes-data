@@ -1,3 +1,4 @@
 {
-    "minimumVersion" : 1.01 
+    "minimumVersion" : 1.00,
+    "dataFilesVersion": 1
 }
