@@ -82,5 +82,12 @@
         "name": "Riverside",
         "startDate": "2020-09-14",
         "uniqueName": "Riverside_2020-09-14"
+    },
+    {
+        "id": 13,
+        "version": 1,
+        "name": "Ryder Cup 9 Hole",
+        "startDate": "2020-09-24",
+        "uniqueName": "RyderCup9Hole_2020-09-24"
     }
 ]
