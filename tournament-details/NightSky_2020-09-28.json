@@ -1,0 +1,64 @@
+{
+    "name": "Night Sky",
+    "holes": [{
+            "tournamentId": 14,
+            "tournamentHole": 1,
+            "course": "Shiruba Springs",
+            "courseHole": 5,
+            "coursePar": 4
+        },
+        {
+            "tournamentId": 14,
+            "tournamentHole": 2,
+            "course": "Shiruba Springs",
+            "courseHole": 8,
+            "coursePar": 3
+        },
+        {
+            "tournamentId": 14,
+            "tournamentHole": 3,
+            "course": "The Milano",
+            "courseHole": 3,
+            "coursePar": 5
+        },
+        {
+            "tournamentId": 14,
+            "tournamentHole": 4,
+            "course": "The Milano",
+            "courseHole": 2,
+            "coursePar": 3
+        },
+        {
+            "tournamentId": 14,
+            "tournamentHole": 5,
+            "course": "Shiruba Springs",
+            "courseHole": 1,
+            "coursePar": 4
+        },
+        {
+            "tournamentId": 14,
+            "tournamentHole": 6,
+            "course": "Shiruba Springs",
+            "courseHole": 9,
+            "coursePar": 5
+        }, {
+            "tournamentId": 14,
+            "tournamentHole": 7,
+            "course": "The Milano",
+            "courseHole": 4,
+            "coursePar": 3
+        }, {
+            "tournamentId": 14,
+            "tournamentHole": 8,
+            "course": "The Milano",
+            "courseHole": 8,
+            "coursePar": 4
+        }, {
+            "tournamentId": 14,
+            "tournamentHole": 9,
+            "course": "Shiruba Springs",
+            "courseHole": 6,
+            "coursePar": 5
+        }
+    ]
+}

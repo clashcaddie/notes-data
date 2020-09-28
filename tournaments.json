@@ -89,5 +89,12 @@
         "name": "Ryder Cup 9 Hole",
         "startDate": "2020-09-24",
         "uniqueName": "RyderCup9Hole_2020-09-24"
+    },
+    {
+        "id": 14,
+        "version": 1,
+        "name": "Night Sky",
+        "startDate": "2020-09-28",
+        "uniqueName": "NightSky_2020-09-28"
     }
 ]
