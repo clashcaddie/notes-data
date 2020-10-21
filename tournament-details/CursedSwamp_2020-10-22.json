@@ -1,0 +1,64 @@
+{
+    "name": "Cursed Swamp 9 Hole",
+    "holes": [{
+            "tournamentId": 16,
+            "tournamentHole": 1,
+            "course": "Cursed Swamp",
+            "courseHole": 1,
+            "coursePar": 4
+        },
+        {
+            "tournamentId": 16,
+            "tournamentHole": 2,
+            "course": "Cursed Swamp",
+            "courseHole": 2,
+            "coursePar": 3
+        },
+        {
+            "tournamentId": 16,
+            "tournamentHole": 3,
+            "course": "Cursed Swamp",
+            "courseHole": 3,
+            "coursePar": 5
+        },
+        {
+            "tournamentId": 16,
+            "tournamentHole": 4,
+            "course": "Cursed Swamp",
+            "courseHole": 4,
+            "coursePar": 3
+        },
+        {
+            "tournamentId": 16,
+            "tournamentHole": 5,
+            "course": "Cursed Swamp",
+            "courseHole": 5,
+            "coursePar": 4
+        },
+        {
+            "tournamentId": 16,
+            "tournamentHole": 6,
+            "course": "Cursed Swamp",
+            "courseHole": 6,
+            "coursePar": 5
+        }, {
+            "tournamentId": 16,
+            "tournamentHole": 7,
+            "course": "Cursed Swamp",
+            "courseHole": 7,
+            "coursePar": 3
+        }, {
+            "tournamentId": 16,
+            "tournamentHole": 8,
+            "course": "Cursed Swamp",
+            "courseHole": 8,
+            "coursePar": 4
+        }, {
+            "tournamentId": 16,
+            "tournamentHole": 9,
+            "course": "Cursed Swamp",
+            "courseHole": 9,
+            "coursePar": 5
+        }
+    ]
+}

@@ -103,5 +103,12 @@
         "name": "Grand Forest",
         "startDate": "2020-10-12",
         "uniqueName": "GrandForest_2020-10-12"
+    },
+    {
+        "id": 16,
+        "version": 1,
+        "name": "Cursed Swamp 9 Hole",
+        "startDate": "2020-10-22",
+        "uniqueName": "CursedSwamp_2020-10-22"
     }
 ]
