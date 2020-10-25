@@ -110,5 +110,12 @@
         "name": "Cursed Swamp 9 Hole",
         "startDate": "2020-10-22",
         "uniqueName": "CursedSwamp_2020-10-22"
+    },
+    {
+        "id": 17,
+        "version": 1,
+        "name": "Phantom Mansion",
+        "startDate": "2020-10-26",
+        "uniqueName": "PhantomMansion_2020-10-26"
     }
 ]
