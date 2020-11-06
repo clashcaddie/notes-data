@@ -117,5 +117,12 @@
         "name": "Phantom Mansion",
         "startDate": "2020-10-26",
         "uniqueName": "PhantomMansion_2020-10-26"
+    },
+    {
+        "id": 18,
+        "version": 1,
+        "name": "Stateside Classics",
+        "startDate": "2020-11-09",
+        "uniqueName": "StatesideClassics_2020-11-09"
     }
 ]
