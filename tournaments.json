@@ -124,5 +124,12 @@
         "name": "Stateside Classics",
         "startDate": "2020-11-09",
         "uniqueName": "StatesideClassics_2020-11-09"
+    },
+    {
+        "id": 19,
+        "version": 1,
+        "name": "Gokasho 9 Hole",
+        "startDate": "2020-11-19",
+        "uniqueName": "Gokasho9Hole_2020-11-19"
     }
 ]
