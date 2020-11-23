@@ -131,5 +131,12 @@
         "name": "Gokasho 9 Hole",
         "startDate": "2020-11-19",
         "uniqueName": "Gokasho9Hole_2020-11-19"
+    },
+    {
+        "id": 20,
+        "version": 1,
+        "name": "Fall Major 2020",
+        "startDate": "2020-11-23",
+        "uniqueName": "FallMajor2020_2020-11-23"
     }
 ]

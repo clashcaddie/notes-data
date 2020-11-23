@@ -1,0 +1,64 @@
+{
+    "name": "Fall Major 2020",
+    "holes": [{
+            "tournamentId": 20,
+            "tournamentHole": 1,
+            "course": "Parc De Paris",
+            "courseHole": 1,
+            "coursePar": 4
+        },
+        {
+            "tournamentId": 20,
+            "tournamentHole": 2,
+            "course": "Parc De Paris",
+            "courseHole": 2,
+            "coursePar": 3
+        },
+        {
+            "tournamentId": 20,
+            "tournamentHole": 3,
+            "course": "Parc De Paris",
+            "courseHole": 3,
+            "coursePar": 5
+        },
+        {
+            "tournamentId": 20,
+            "tournamentHole": 4,
+            "course": "Parc De Paris",
+            "courseHole": 4,
+            "coursePar": 3
+        },
+        {
+            "tournamentId": 20,
+            "tournamentHole": 5,
+            "course": "Parc De Paris",
+            "courseHole": 5,
+            "coursePar": 4
+        },
+        {
+            "tournamentId": 20,
+            "tournamentHole": 6,
+            "course": "Parc De Paris",
+            "courseHole": 6,
+            "coursePar": 5
+        }, {
+            "tournamentId": 20,
+            "tournamentHole": 7,
+            "course": "Parc De Paris",
+            "courseHole": 7,
+            "coursePar": 4
+        }, {
+            "tournamentId": 20,
+            "tournamentHole": 8,
+            "course": "Parc De Paris",
+            "courseHole": 8,
+            "coursePar": 3
+        }, {
+            "tournamentId": 20,
+            "tournamentHole": 9,
+            "course": "Parc De Paris",
+            "courseHole": 9,
+            "coursePar": 5
+        }
+    ]
+}
