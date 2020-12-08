@@ -138,5 +138,12 @@
         "name": "Fall Major 2020",
         "startDate": "2020-11-23",
         "uniqueName": "FallMajor2020_2020-11-23"
+    },
+    {
+        "id": 21,
+        "version": 1,
+        "name": "Frosty Peaks",
+        "startDate": "2020-12-07",
+        "uniqueName": "FrostyPeaks_2020-12-07"
     }
 ]
