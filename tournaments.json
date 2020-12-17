@@ -145,5 +145,12 @@
         "name": "Frosty Peaks",
         "startDate": "2020-12-07",
         "uniqueName": "FrostyPeaks_2020-12-07"
+    },
+    {
+        "id": 22,
+        "version": 1,
+        "name": "Shiruba Springs 9 Hole",
+        "startDate": "2020-12-17",
+        "uniqueName": "ShirubaSprings9Hole_2020-12-17"
     }
 ]
