@@ -152,5 +152,12 @@
         "name": "Shiruba Springs 9 Hole",
         "startDate": "2020-12-17",
         "uniqueName": "ShirubaSprings9Hole_2020-12-17"
+    },
+    {
+        "id": 23,
+        "version": 1,
+        "name": "Christmas Park",
+        "startDate": "2020-12-21",
+        "uniqueName": "ChristmasPark_2020-12-21"
     }
 ]
