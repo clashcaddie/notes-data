@@ -1,0 +1,64 @@
+{
+    "name": "Winter Sun",
+    "holes": [{
+            "tournamentId": 24,
+            "tournamentHole": 1,
+            "course": "Koh Hong Resort",
+            "courseHole": 1,
+            "coursePar": 4
+        },
+        {
+            "tournamentId": 24,
+            "tournamentHole": 2,
+            "course": "Koh Hong Resort",
+            "courseHole": 2,
+            "coursePar": 3
+        },
+        {
+            "tournamentId": 24,
+            "tournamentHole": 3,
+            "course": "Koh Hong Resort",
+            "courseHole": 3,
+            "coursePar": 5
+        },
+        {
+            "tournamentId": 24,
+            "tournamentHole": 4,
+            "course": "Koh Hong Resort",
+            "courseHole": 4,
+            "coursePar": 3
+        },
+        {
+            "tournamentId": 24,
+            "tournamentHole": 5,
+            "course": "Koh Hong Resort",
+            "courseHole": 5,
+            "coursePar": 4
+        },
+        {
+            "tournamentId": 24,
+            "tournamentHole": 6,
+            "course": "Koh Hong Resort",
+            "courseHole": 6,
+            "coursePar": 5
+        }, {
+            "tournamentId": 24,
+            "tournamentHole": 7,
+            "course": "Koh Hong Resort",
+            "courseHole": 7,
+            "coursePar": 4
+        }, {
+            "tournamentId": 24,
+            "tournamentHole": 8,
+            "course": "Koh Hong Resort",
+            "courseHole": 8,
+            "coursePar": 3
+        }, {
+            "tournamentId": 24,
+            "tournamentHole": 9,
+            "course": "Koh Hong Resort",
+            "courseHole": 9,
+            "coursePar": 5
+        }
+    ]
+}

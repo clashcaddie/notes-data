@@ -159,5 +159,12 @@
         "name": "Christmas Park",
         "startDate": "2020-12-21",
         "uniqueName": "ChristmasPark_2020-12-21"
+    },
+    {
+        "id": 24,
+        "version": 1,
+        "name": "Winter Sun",
+        "startDate": "2021-01-04",
+        "uniqueName": "WinterSun_2021-01-04"
     }
 ]
