@@ -166,5 +166,12 @@
         "name": "Winter Sun",
         "startDate": "2021-01-04",
         "uniqueName": "WinterSun_2021-01-04"
+    },
+    {
+        "id": 25,
+        "version": 1,
+        "name": "Maple Bay 9 Hole",
+        "startDate": "2021-01-04",
+        "uniqueName": "MapleBay9Hole_2021-01-14"
     }
 ]
