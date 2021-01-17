@@ -173,5 +173,12 @@
         "name": "Maple Bay 9 Hole",
         "startDate": "2021-01-04",
         "uniqueName": "MapleBay9Hole_2021-01-14"
+    },
+    {
+        "id": 26,
+        "version": 1,
+        "name": "4th Anniversary",
+        "startDate": "2021-01-18",
+        "uniqueName": "4thAnniversary_2021-01-18"
     }
 ]
