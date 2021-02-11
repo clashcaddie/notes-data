@@ -187,5 +187,12 @@
         "name": "Quaterback",
         "startDate": "2021-02-01",
         "uniqueName": "Quaterback_2021-02-01"
+    },
+    {
+        "id": 28,
+        "version": 1,
+        "name": "Namhae Cliffs 9 Hole",
+        "startDate": "2021-02-11",
+        "uniqueName": "NamhaeClifs9Hole_2021-02-11"
     }
 ]
