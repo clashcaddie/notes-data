@@ -201,5 +201,12 @@
         "name": "Winter Major 2021",
         "startDate": "2021-02-15",
         "uniqueName": "WinterMajor2021_2021-02-15"
+    },
+    {
+        "id": 30,
+        "version": 1,
+        "name": "Desert Dunes",
+        "startDate": "2021-03-01",
+        "uniqueName": "DesertDunes_2021-03-01"
     }
 ]
