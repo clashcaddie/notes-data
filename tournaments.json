@@ -208,5 +208,12 @@
         "name": "Desert Dunes",
         "startDate": "2021-03-01",
         "uniqueName": "DesertDunes_2021-03-01"
+    },
+    {
+        "id": 31,
+        "version": 1,
+        "name": "St Patricks Day 2021",
+        "startDate": "2021-03-15",
+        "uniqueName": "StPatricksDay2021_2021-03-15"
     }
 ]
