@@ -215,5 +215,12 @@
         "name": "St Patricks Day 2021",
         "startDate": "2021-03-15",
         "uniqueName": "StPatricksDay2021_2021-03-15"
+    },
+    {
+        "id": 32,
+        "version": 1,
+        "name": "Easter Classic",
+        "startDate": "2021-03-29",
+        "uniqueName": "EasterClassic_2021-03-29"
     }
 ]
