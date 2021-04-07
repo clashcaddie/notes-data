@@ -222,5 +222,13 @@
         "name": "Easter Classic",
         "startDate": "2021-03-29",
         "uniqueName": "EasterClassic_2021-03-29"
+    },
+    {
+        "id": 33,
+        "version": 1,
+        "name": "Bubbas 9 Hole",
+        "startDate": "2021-04-08",
+        "uniqueName": "Bubbas9HoleCup_2021-04-089"
     }
 ]
+

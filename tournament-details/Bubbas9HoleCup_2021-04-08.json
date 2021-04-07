@@ -1,0 +1,64 @@
+{
+    "name": "Bubbas 9 Hole",
+    "holes": [{
+            "tournamentId": 33,
+            "tournamentHole": 1,
+            "course": "Southern Pines",
+            "courseHole": 1,
+            "coursePar": 4
+        },
+        {
+            "tournamentId": 33,
+            "tournamentHole": 2,
+            "course": "Southern Pines",
+            "courseHole": 2,
+            "coursePar": 3
+        },
+        {
+            "tournamentId": 33,
+            "tournamentHole": 3,
+            "course": "Southern Pines",
+            "courseHole": 3,
+            "coursePar": 5
+        },
+        {
+            "tournamentId": 33,
+            "tournamentHole": 4,
+            "course": "Southern Pines",
+            "courseHole": 4,
+            "coursePar": 4
+        },
+        {
+            "tournamentId": 33,
+            "tournamentHole": 5,
+            "course": "Southern Pines",
+            "courseHole": 5,
+            "coursePar": 3
+        },
+        {
+            "tournamentId": 33,
+            "tournamentHole": 6,
+            "course": "Southern Pines",
+            "courseHole": 6,
+            "coursePar": 5
+        }, {
+            "tournamentId": 33,
+            "tournamentHole": 7,
+            "course": "Southern Pines",
+            "courseHole": 7,
+            "coursePar": 4
+        }, {
+            "tournamentId": 33,
+            "tournamentHole": 8,
+            "course": "Southern Pines",
+            "courseHole": 8,
+            "coursePar": 3
+        }, {
+            "tournamentId": 33,
+            "tournamentHole": 9,
+            "course": "Southern Pines",
+            "courseHole": 9,
+            "coursePar": 5
+        }
+    ]
+}
