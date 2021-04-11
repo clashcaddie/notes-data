@@ -229,6 +229,13 @@
         "name": "Bubbas 9 Hole",
         "startDate": "2021-04-08",
         "uniqueName": "Bubbas9HoleCup_2021-04-08"
+    },
+    {
+        "id": 34,
+        "version": 1,
+        "name": "Spring Major 2021",
+        "startDate": "2021-04-12",
+        "uniqueName": "SpringMajor2021_2021-04-12"
     }
 ]
 
