@@ -243,6 +243,12 @@
         "name": "Savannah",
         "startDate": "2021-04-26",
         "uniqueName": "Savannah_2021-04-26"
+    },
+    {
+        "id": 36,
+        "version": 1,
+        "name": "Eastern Classics",
+        "startDate": "2021-05-10",
+        "uniqueName": "EasternClassics_2021-05-10"
     }
 ]
-

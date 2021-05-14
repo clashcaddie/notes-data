@@ -1,0 +1,64 @@
+{
+    "name": "Eastern Classics",
+    "holes": [{
+            "tournamentId": 36,
+            "tournamentHole": 1,
+            "course": "Namhae Cliffs",
+            "courseHole": 1,
+            "coursePar": 4
+        },
+        {
+            "tournamentId": 36,
+            "tournamentHole": 2,
+            "course": "Shiruba Springs",
+            "courseHole": 9,
+            "coursePar": 5
+        },
+        {
+            "tournamentId": 36,
+            "tournamentHole": 3,
+            "course": "Gokasho Bay",
+            "courseHole": 7,
+            "coursePar": 3
+        },
+        {
+            "tournamentId": 36,
+            "tournamentHole": 4,
+            "course": "Gokasho Bay",
+            "courseHole": 8,
+            "coursePar": 4
+        },
+        {
+            "tournamentId": 36,
+            "tournamentHole": 5,
+            "course": "Namhae Cliffs",
+            "courseHole": 4,
+            "coursePar": 3
+        },
+        {
+            "tournamentId": 36,
+            "tournamentHole": 6,
+            "course": "Namhae Cliffs",
+            "courseHole": 3,
+            "coursePar": 5
+        }, {
+            "tournamentId": 36,
+            "tournamentHole": 7,
+            "course": "Shiruba Springs",
+            "courseHole": 8,
+            "coursePar": 3
+        }, {
+            "tournamentId": 36,
+            "tournamentHole": 8,
+            "course": "Shiruba Springs",
+            "courseHole": 7,
+            "coursePar": 4
+        }, {
+            "tournamentId": 36,
+            "tournamentHole": 9,
+            "course": "Gokasho Bay",
+            "courseHole": 6,
+            "coursePar": 5
+        }
+    ]
+}
