@@ -1,0 +1,64 @@
+{
+    "name": "Palm Tree Open",
+    "holes": [{
+            "tournamentId": 37,
+            "tournamentHole": 1,
+            "course": "Koh Hong Resort",
+            "courseHole": 1,
+            "coursePar": 4
+        },
+        {
+            "tournamentId": 37,
+            "tournamentHole": 2,
+            "course": "Koh Hong Resort",
+            "courseHole": 6,
+            "coursePar": 5
+        },
+        {
+            "tournamentId": 37,
+            "tournamentHole": 3,
+            "course": "The Oasis",
+            "courseHole": 3,
+            "coursePar": 3
+        },
+        {
+            "tournamentId": 37,
+            "tournamentHole": 4,
+            "course": "Santa Ventura",
+            "courseHole": 8,
+            "coursePar": 3
+        },
+        {
+            "tournamentId": 37,
+            "tournamentHole": 5,
+            "course": "Koh Hong Resort",
+            "courseHole": 8,
+            "coursePar": 3
+        },
+        {
+            "tournamentId": 37,
+            "tournamentHole": 6,
+            "course": "Santa Ventura",
+            "courseHole": 9,
+            "coursePar": 5
+        }, {
+            "tournamentId": 37,
+            "tournamentHole": 7,
+            "course": "Santa Ventura",
+            "courseHole": 2,
+            "coursePar": 3
+        }, {
+            "tournamentId": 37,
+            "tournamentHole": 8,
+            "course": "The Oasis",
+            "courseHole": 2,
+            "coursePar": 4
+        }, {
+            "tournamentId": 37,
+            "tournamentHole": 9,
+            "course": "The Oasis",
+            "courseHole": 1,
+            "coursePar": 5
+        }
+    ]
+}
