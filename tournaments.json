@@ -257,5 +257,12 @@
         "name": "Palm Tree Open",
         "startDate": "2021-05-24",
         "uniqueName": "PalmTreeOpen_2021-05-24"
+    },
+    {
+        "id": 38,
+        "version": 1,
+        "name": "Northside",
+        "startDate": "2021-06-07",
+        "uniqueName": "Northside_2021-06-07"
     }
 ]
