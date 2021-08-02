@@ -271,5 +271,12 @@
         "name": "Game Set Match",
         "startDate": "2021-05-07",
         "uniqueName": "GameSetMatch_2021-05-07"
+    },
+    {
+        "id": 40,
+        "version": 1,
+        "name": "The Wilderness",
+        "startDate": "2021-08-02",
+        "uniqueName": "TheWilderness_2021-08-02"
     }
 ]
