@@ -278,5 +278,12 @@
         "name": "The Wilderness",
         "startDate": "2021-08-02",
         "uniqueName": "TheWilderness_2021-08-02"
+    },
+    {
+        "id": 41,
+        "version": 1,
+        "name": "Summer Major 2021",
+        "startDate": "2021-08-16",
+        "uniqueName": "SummerMajor2021_2021-08-16"
     }
 ]
