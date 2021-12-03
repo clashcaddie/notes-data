@@ -369,5 +369,12 @@
         "name": "Thanksgiving",
         "startDate": "2021-11-22",
         "uniqueName": "Thanksgiving_2021-11-22"
+    },
+    {
+        "id": 54,
+        "version": 1,
+        "name": "Silicon Valley 9 Hole Cup",
+        "startDate": "2021-12-02",
+        "uniqueName": "SiliconValley9HoleCup_2021-12-02"
     }
 ]
