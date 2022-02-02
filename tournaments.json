@@ -408,7 +408,7 @@
     {
         "id": 59,
         "version": 1,
-        "name": "Escape To The Sun",
+        "name": "Escape to the Sun",
         "startDate": "2022-01-03",
         "uniqueName": "EscapeToTheSun_2022-01-03"
     },
@@ -425,5 +425,5 @@
         "name": "Winter Major 22",
         "startDate": "2022-01-17",
         "uniqueName": "WinterMajor22_2022-01-17"
-     }
+    }
 ]
