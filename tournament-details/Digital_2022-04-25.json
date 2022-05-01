@@ -1,0 +1,68 @@
+{
+    "name": "Digital",
+    "holes": [
+        {
+            "tournamentId": 74,
+            "tournamentHole": 1,
+            "course": "The Milano",
+            "courseHole": 1,
+            "coursePar": 3
+        },
+        {
+            "tournamentId": 74,
+            "tournamentHole": 2,
+            "course": "The Milano",
+            "courseHole": 2,
+            "coursePar": 4
+        },
+        {
+            "tournamentId": 74,
+            "tournamentHole": 3,
+            "course": "The Milano",
+            "courseHole": 3,
+            "coursePar": 5
+        },
+        {
+            "tournamentId": 74,
+            "tournamentHole": 4,
+            "course": "The Milano",
+            "courseHole": 4,
+            "coursePar": 3
+        },
+        {
+            "tournamentId": 74,
+            "tournamentHole": 5,
+            "course": "The Milano",
+            "courseHole": 5,
+            "coursePar": 4
+        },
+        {
+            "tournamentId": 74,
+            "tournamentHole": 6,
+            "course": "The Milano",
+            "courseHole": 6,
+            "coursePar": 5
+        },
+        {
+            "tournamentId": 74,
+            "tournamentHole": 7,
+            "course": "The Milano",
+            "courseHole": 7,
+            "coursePar": 4
+        },
+        {
+            "tournamentId": 74,
+            "tournamentHole": 8,
+            "course": "The Milano",
+            "courseHole": 8,
+            "coursePar": 3
+        },
+        {
+            "tournamentId": 74,
+            "tournamentHole": 9,
+            "course": "The Milano",
+            "courseHole": 9,
+            "coursePar": 5
+        }
+    ]
+}
